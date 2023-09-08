@@ -1,0 +1,18 @@
+Table => Combination of row and column 
+Row => Left to right
+Column=> top to bottom
+
+note: 
+1) Amra jodi table kea row tea bag kori taholea amra table er height ta kea bag korbo 
+=> If we devide table into row then that time we will divide it by hight 
+2)Amra jodi table kea column ea bag kor tea chai taholea width ta kea bag kortea hbea
+-----------------------------------------------
+                   Table Syntax 
+-----------------------------------------------<table>
+      <tr>
+            <td>
+            </td>
+      </tr>
+</table>    
+tr - table row 
+td - table column /table data
