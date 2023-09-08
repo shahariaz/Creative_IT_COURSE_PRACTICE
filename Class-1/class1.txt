@@ -1,0 +1,14 @@
+HTTP - Heyper Text Transfer Protocal 
+HTTPS - Heyper Text Transfer Protocal Secure 
+FTP - File Transfer Protocal
+WWW-
+URL-
+HTML - Heyper Text Transfer Language (Merkup Language)
+DOCTYPE - Document Type 
+Tag - <>
+
+---------------------------------
+             Type of tag 
+----------------------------------
+1.Double Tag -Starting and Ending (<html></html>,<h1></h1)
+2.Single Tag -Starting and No End (<Img/>)
