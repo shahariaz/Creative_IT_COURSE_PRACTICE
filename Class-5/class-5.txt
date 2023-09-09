@@ -15,3 +15,15 @@ Type of selector
 2) ID - #
 3)Class - .
 4)Html all tag nam - input,img
+---------------------------
+font-weight 
+-------------------------------
+100-thin
+200-extra light 
+300-light
+400-Regular
+500-Medium
+600-Semi-bold
+700-bold
+800-Extra bold 
+900-black

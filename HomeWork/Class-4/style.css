@@ -1,0 +1,57 @@
+.parent {
+  width: 900px;
+  height: 900px;
+  background: #fd3434;
+  margin: 0 auto;
+}
+.a1 {
+  width: 900px;
+  height: 300px;
+  background: #26d008;
+}
+.a2 {
+  width: 900px;
+  height: 300px;
+  background: #1d87ea;
+}
+.a3 {
+  width: 900px;
+  height: 300px;
+  background: #6012f0;
+}
+.a4 {
+  width: 300px;
+  height: 300px;
+  background: #d70abc;
+  float: left;
+}
+.a5 {
+  width: 300px;
+  height: 300px;
+  background: #ea04f6;
+  float: left;
+}
+.a6 {
+  width: 300px;
+  height: 300px;
+  background: #6f034d;
+  float: left;
+}
+.a7 {
+  width: 300px;
+  height: 100px;
+  background: #dcb84c;
+  float: left;
+}
+.a8 {
+  width: 300px;
+  height: 100px;
+  background: #0beea3;
+  float: left;
+}
+.a9 {
+  width: 300px;
+  height: 100px;
+  background: #210cde;
+  float: left;
+}
