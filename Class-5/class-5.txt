@@ -1,0 +1,17 @@
+Css- Cascading Style Sheets
+type of css :
+1)Inline Css 
+2)Internal Css
+3)External Css
+Css syntax 
+--------------
+selector{
+    property: value;
+}
+
+Type of selector 
+---------------------------
+1) All - *
+2) ID - #
+3)Class - .
+4)Html all tag nam - input,img
