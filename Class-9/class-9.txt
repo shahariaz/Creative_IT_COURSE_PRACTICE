@@ -2,4 +2,6 @@
 <nav></nav>
 <body></body>
 <Sections></Sections>
-<footer></footer>
+<footer>
+this is bangladesh
+</footer>
